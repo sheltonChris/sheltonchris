@@ -6,7 +6,7 @@
 
 ## 🔧 Tecnologias que uso
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 </div>
 
 ## 📊 Minhas Estatísticas
